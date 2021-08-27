@@ -1,15 +1,14 @@
 # michelle-narverud-js1-ma3
-### JavaScript 1 - Module assignment 3 
+## JavaScript 1 - Module assignment 3 
 
 
 
-Goal
+### Goal
 
 This assignment will test the JavaScript concepts you have learned in this module.
 
 
 Level 1
-
 ### Question 1
 
 Convert the function below to an arrow function:
