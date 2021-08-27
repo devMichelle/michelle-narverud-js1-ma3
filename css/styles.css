@@ -1,0 +1,26 @@
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 30px 55px;
+}
+
+.results {
+    font-size: 20px;
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.gamename {
+    font-weight: bold;
+}
+
+.error {
+    border: 1px solid darkred;
+    color: darkred;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(255, 0, 0, 0.1);
+}
